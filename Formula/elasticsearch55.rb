@@ -1,4 +1,4 @@
-class Elasticsearch < Formula
+class Elasticsearch55 < Formula
   desc "Distributed search & analytics engine"
   homepage "https://www.elastic.co/products/elasticsearch"
   url "https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-5.5.2.zip"
